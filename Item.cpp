@@ -2,9 +2,6 @@
 #include "Item.h"
 #include <string>
 
-#include "Item.h"
-#include <string>
-
 Item::Item() {itemCode = "ND", itemPrice = 1.0};
 Item::Item(string:: code, float price) {itemCode = code; itemPrice = price};
 
