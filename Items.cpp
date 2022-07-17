@@ -8,12 +8,6 @@
 #include "Item.h"
 #include "Items.h"
 
-extern Items items;
 
-Items::Items() {std::vector<Item> itemList;};
-
-void Items::AddItem(){
-  std::string code;
-  int price;
 
 };
